@@ -9,7 +9,7 @@ p {
 
 }
 
-#p1 {
+.p1 {
   background-color: #ffd868;
   float: right;
   margin: 0px;
@@ -21,7 +21,7 @@ p {
 
 }
 
-#p2 {
+.p2 {
   background-color: #4cd3c2;
   float: right;
   clear: right;
@@ -33,7 +33,7 @@ p {
 
 }
 
-#p3 {
+.p3 {
   background-color: #d7385e;
   float: right;
   clear: right;
@@ -46,7 +46,7 @@ p {
 
 }
 
-#h1{
+.h1{
 	font-family: Bradley Hand,cursive;
 	font-weight: bold;
 	text-align: center;
